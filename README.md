@@ -1,5 +1,5 @@
 <div>
-  <img style="display=block; margin=auto" align="center" src="https://i.imgur.com/obZ0HuH.png">
+  <img style="display=block; margin=auto" align="center" src="https://i.imgur.com/tDIDVME.png">
 </div>
 
 # Hey, I'm Manoela Moyses! 👋
