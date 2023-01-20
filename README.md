@@ -17,13 +17,13 @@ My dream is to work with Front-end soon and changing people's lives through prog
 ![Manoela's GitHub stats](https://github-readme-stats.vercel.app/api?username=manoela-moyses&show_icons=true&theme=cobalt)
 
 ###Current Stack:
-- Main Language: `JavaScript`
-- Backend: `Nodejs`
-- Frontend: `Reactjs`, `HTML5`, `CSS3`, `JavaScript`
-- Layout Design: `Figma`
-- Code Version Control: `Git & GitHub`
-- Tools: `VSCode`, `Markdown`
-- I'm mostly active on `Rocketseat Discord`
+- ⚡️ Main Language: `JavaScript`
+- 📡 Backend: `Nodejs`
+- 🖥️ Frontend: `Reactjs`, `HTML5`, `CSS3`, `JavaScript`
+- 🎨 Layout Design: `Figma`
+- 📦️ Code Version Control: `Git & GitHub`
+- 🔨 Tools: `VSCode`, `Markdown`
+- 🌎 I'm mostly active on `Rocketseat Discord`
 
 ### Most Used Languages:
 
