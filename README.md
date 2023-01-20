@@ -18,7 +18,7 @@ I'm a brazilian programming lover who studies web development at the college and
 ###Current Stack:
 - Main Language: `JavaScript`
 - Backend: `Nodejs`
-- Frontend: `Rectjs`, `HTML5`, `CSS3`, `JavaScript`
+- Frontend: `Reactjs`, `HTML5`, `CSS3`, `JavaScript`
 - Layout Design: `Figma`
 - Code Version Control: `Git & GitHub`
 - Tools: `VSCode`, `Markdown`
