@@ -5,7 +5,7 @@
 # Hey, I'm Manoela Moyses! 👋
 
 ### About me:
-I'm a brazilian programming lover who studies web development at the college and lives in Porto Alegre - RS. My dream is to work with Front-end soon and changing people's lives through programming. ☕❤️
+I'm a brazilian programming lover who studies web development at the college and lives in Porto Alegre - RS. I'm also studying web development at [Rocketseat](https://www.rocketseat.com.br/). My dream is to work with Front-end soon and changing people's lives through programming. ☕❤️
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manoelamoyses/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manoela.moyses0205@gmail.com)
@@ -15,7 +15,16 @@ I'm a brazilian programming lover who studies web development at the college and
 
 ![Manoela's GitHub stats](https://github-readme-stats.vercel.app/api?username=manoela-moyses&show_icons=true&theme=cobalt)
 
-### Most Used Languages
+###Current Stack:
+- Main Language: `JavaScript`
+- Backend: `Nodejs`
+- Frontend: `Rectjs`, `HTML5`, `CSS3`, `JavaScript`
+- Layout Design: `Figma`
+- Code Version Control: `Git & GitHub`
+- Tools: `VSCode`, `Markdown`
+- I'm mostly active on `Rocketseat Discord`
+
+### Most Used Languages:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manoela-moyses&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
