@@ -1,8 +1,8 @@
 <div>
-  <img style="display=block; margin=auto" align="center" src="https://i.imgur.com/tDIDVME.png">
+  <video style="display=block; margin=auto" align="center" src="https://i.imgur.com/Z8fESW7.mp4">
 </div>
 
-# Hey, I'm Manoela Moyses! 👋
+# Hey, I'm Manoela Moyses! <img src="https://gist.githubusercontent.com/arunprakashpj/48aa20057048b46c6f9ba9d114a8b76f/raw/69a9d496f651091a509ea8d9913c4aef5c419afb/Hi.gif" width="30px"></img>
 
 ### About me:
 I'm a brazilian programming lover who studies web development at the college and lives in Porto Alegre - RS. I'm also studying web development at [Rocketseat](https://www.rocketseat.com.br/).<br> 
