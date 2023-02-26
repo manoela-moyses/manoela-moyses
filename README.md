@@ -1,5 +1,5 @@
 <div>
-  <video style="display=block; margin=auto" align="center" src="https://i.imgur.com/Z8fESW7.mp4">
+  <img style="display=block; margin=auto" align="center" src="https://i.imgur.com/Z8fESW7.gif">
 </div>
 
 # Hey, I'm Manoela Moyses! <img src="https://gist.githubusercontent.com/arunprakashpj/48aa20057048b46c6f9ba9d114a8b76f/raw/69a9d496f651091a509ea8d9913c4aef5c419afb/Hi.gif" width="30px"></img>
