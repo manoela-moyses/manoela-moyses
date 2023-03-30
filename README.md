@@ -9,10 +9,10 @@ I'm a brazilian programming lover who studies web development at the college and
 My dream is to work with Front-end soon and changing people's lives through programming. ☕❤️
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manoelamoyses/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devmanoela@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contato@manoelamoyses.net)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/manoelamoyses)
 [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/manoela-moyses)
-[![Website](https://img.shields.io/website?label=Portfólio&style=for-the-badge&url=https://manoelamoyses.vercel.app/)](https://manoelamoyses.vercel.app)
+[![Website](https://img.shields.io/website?label=Portfólio&style=for-the-badge&url=https://manoelamoyses.net/)](https://manoelamoyses.net)
 
 ![Manoela's GitHub stats](https://github-readme-stats.vercel.app/api?username=manoela-moyses&show_icons=true&theme=cobalt)
 
